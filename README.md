@@ -20,6 +20,8 @@ About myself:
 -  📫 Connect with me: quanrealvn@gmail.com 
 -  Constantly active on discord: mono09#2875
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quanSadie&theme=monokai)
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quanSadie&theme=monokai) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quanSadie&theme=monokai)
 
