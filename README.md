@@ -21,6 +21,9 @@ About myself:
 -  Constantly active on discord: mono09#2875
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quanSadie&theme=monokai)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quanSadie&show_icons=true&theme=tokyonight)
 
 
