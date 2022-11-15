@@ -24,5 +24,5 @@ Languages and tools:
 
 
 
-[![Language](https://skills.thijs.gg/icons?i=js,html,css,java,postgres,bootstrap,c,eclipse,spring)](https://skills.thijs.gg)
+[![Language](https://skillicons.dev/icons?i=js,html,css,java,postgres,bootstrap,c,eclipse,spring)](https://skills.thijs.gg)
 
