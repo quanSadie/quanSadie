@@ -19,10 +19,10 @@ About myself:
 -  🌱 I’m currently learning spring & spring boot
 -  📫 Connect with me: quanrealvn@gmail.com
 
-Languages :
+Languages and tools:
 
 
 
 
-[![Language](https://skills.thijs.gg/icons?i=js,html,css,java,postgres)](https://skills.thijs.gg)
+[![Language](https://skills.thijs.gg/icons?i=js,html,css,java,postgres,bootstrap,c,eclipse,spring)](https://skills.thijs.gg)
 
