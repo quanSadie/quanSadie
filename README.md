@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 About myself: 
 -  🔭 I am currently a software engineering student at FPT University 
--  🌱 I’m currently learning web development
+-  🌱 I’m learning web development
 -  📫 Connect with me: quanrealvn@gmail.com 
 -  Constantly active on discord: mono09#2875
 
