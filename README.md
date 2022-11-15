@@ -22,11 +22,9 @@ About myself:
 Languages and tools:
 
 
-[![Language](https://skillicons.dev/icons?i=js,html,css,java,postgres,bootstrap,c,eclipse,spring,heroku,jquery,dotnet)](https://skillicons.dev)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,java,postgres,bootstrap,c,eclipse,spring,heroku,jquery,dotnet" />
-
      </a>
 </p>
 
