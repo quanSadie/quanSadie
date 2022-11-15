@@ -20,6 +20,11 @@ About myself:
 -  📫 Connect with me: quanrealvn@gmail.com 
 -  Constantly active on discord: mono09#2875
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quanSadie)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 Languages and tools:
 
 
