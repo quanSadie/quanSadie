@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+About myself: 
+-  🔭 I am currently a software engineering student at FPT University 
+-  🌱 I’m currently learning spring & spring boot
+-  📫 Connect with me: quanrealvn@gmail.com
+
+[![Language](https://skills.thijs.gg/icons?i=js,html,css,java,postgres)](https://skills.thijs.gg)
+
