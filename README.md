@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 About myself: 
 -  🔭 I am a software engineering student at FPT University 
--  🌱 I’m  currently learning web development with spring boot
+-  🌱 Tech Stack: Spring boot, ASP.NET core, SAP ABAP, SAP CAP
 -  📫 Connect with me: quanrealvn@gmail.com 
 -  Constantly active on discord: mono09#2875
 
