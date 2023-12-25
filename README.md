@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 About myself: 
 -  🔭 I am a software engineering student at FPT University 
--  🌱 Tech Stack: Spring boot, ASP.NET core, SAP ABAP, SAP CAP
--  📫 Connect with me: quanrealvn@gmail.com 
--  Constantly active on discord: mono09#2875
+-  📫 How to reach me: quanrealvn@gmail.com 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quanSadie&theme=monokai)
 
@@ -36,7 +34,7 @@ Languages and tools:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,postgres,bootstrap,c,eclipse,spring,heroku,jquery,dotnet,docker" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,postgres,bootstrap,c,eclipse,spring,heroku,jquery,dotnet,docker,sap" />
      </a>
 </p>
 
